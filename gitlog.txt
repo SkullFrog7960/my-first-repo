@@ -1,0 +1,23 @@
+commit e24dc709a6c1916a81f46c8491a7e800113b6be0
+Author: SkullFrog7960 <agmrobinson@icloud.com>
+Date:   Sat Nov 28 22:27:06 2020 +0100
+
+    added file000.txt to .gitignore
+
+commit 029c5b5a53ea58e5266b2ce01cea3445f9d55e24
+Author: SkullFrog7960 <agmrobinson@icloud.com>
+Date:   Sat Nov 28 22:19:59 2020 +0100
+
+    added gitignore
+
+commit 521b5c22915fa198e276adbb40495c62f1629265
+Author: SkullFrog7960 <agmrobinson@icloud.com>
+Date:   Fri Nov 27 22:48:27 2020 +0100
+
+    added two files
+
+commit 8267a5a395fac6408c4cec768e270d9d2503ccad
+Author: SkullFrog7960 <agmrobinson@icloud.com>
+Date:   Fri Nov 27 22:33:15 2020 +0100
+
+    added readme.txt
