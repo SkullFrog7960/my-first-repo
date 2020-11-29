@@ -1,6 +1,6 @@
 # SkullFrog7960
 
-### Geo
+### Geography
 
 I live in a haunted swamp.
 
@@ -19,5 +19,5 @@ I don't like Reading. Nasty place. Not enough mud.
 
 1. Consult your local *Yellow Mages* for a specialist necromancer.
 2. Ask them to put you through the **Amphibious Undead** hotline.
-3. Neither I nor the hotline administrators accept any liability for any harm to your person and/or chances of salvation as a result.
+3. Neither I nor the hotline administrators accept any liability for any harm to your person and/or prospects of salvation as a result.
 
